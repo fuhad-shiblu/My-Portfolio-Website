@@ -1,7 +1,7 @@
 const fuhadShibluEdu = [
      {
           "edu_id": 1,
-          "edu_institute_logo": '../../../../public/images/citlogo.png',
+          "edu_institute_logo": '../../public/images/citlogo.png',
           "edu_institute_logo_alt": 'Creative IT Institute',
           "edu_institute_link": 'https://creativeitinstitute.com',
           "edu_from_date": 'january 2024',
@@ -13,7 +13,7 @@ const fuhadShibluEdu = [
      },
      {
           "edu_id": 2,
-          "edu_institute_logo": '../../../../public/images/mistlogo.png',
+          "edu_institute_logo": '../../public/images/mistlogo.png',
           "edu_institute_logo_alt": 'Mangrove Institute of Science and Technology',
           "edu_institute_link": 'https://mangrove.edu.bd',
           "edu_from_date": 'july 2017',
@@ -25,7 +25,7 @@ const fuhadShibluEdu = [
      },
      {
           "edu_id": 3,
-          "edu_institute_logo": '../../../../public/images/bhslogo.png',
+          "edu_institute_logo": '../../public/images/bhslogo.png',
           "edu_institute_logo_alt": 'Bangobashi Secondary School',
           "edu_institute_link": 'https://facebook.com/Bongobashi.High.School',
           "edu_from_date": 'january 2016',
