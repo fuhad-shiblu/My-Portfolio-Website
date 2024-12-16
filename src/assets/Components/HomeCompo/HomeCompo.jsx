@@ -8,7 +8,7 @@ const HomeCompo = () => {
     <div className="container mx-auto">
      <section className="mt-[50px] flex flex-col md:flex-row items-center justify-center gap-10 md:justify-between md:items-center ml-5 mr-5">
           <div className="fuhadShiblu_txtArea flex flex-col items-center md:items-stretch gap-10 justify-center items-start">
-               <h1 className='font-black text-4xl md:text-5xl text-[#C84B31]'>Hello <span className='block mt-1 mb-1 font-bold text-2xl md:text-3xl'>I'm</span><span className='capitalize font-semibold text-5xl md:text-6xl text-[#00005C]'>fuhad hasan shiblu</span></h1>
+               <h1 className='font-black text-4xl md:text-5xl text-[#C84B31]'>Hello <span className='block mt-1 mb-1 font-bold text-2xl md:text-3xl'>I'm</span><span className='capitalize font-semibold text-4xl md:text-6xl text-[#00005C]'>fuhad hasan shiblu</span></h1>
                <p className='text-2xl md:text-3xl uppercase font-black'>front-end web developer</p>
                <span className='w-full md:w-[750px] text-lg md:text-md text-justify'>I specialize in building dynamic, responsive user interfaces with expertise in JavaScript, HTML, and CSS. Combining creativity with technical precision, I deliver high-quality web solutions tailored to enhance user experiences and bring innovative ideas to life.</span>
                <img className='w-[200px] h-[250px] rounded-xl border-2 border-dashed border-[#070A52] p-1 rotate-[-10deg] hover:rotate-0 transition-all hover:border-dotted block md:hidden' src={profile} alt="Profile Photo" />
