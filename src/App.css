@@ -1,0 +1,18 @@
+*{
+  @apply m-0 p-0 box-border scroll-smooth font-roboto;
+}
+a{
+  text-decoration: none;
+  display: inline-block;
+}
+ul,ol{
+  list-style: none;
+}
+body{
+  @apply w-full h-screen bg-[#BFECFF] bg-cover bg-center bg-no-repeat;
+}
+.fuhadShiblu_txtArea p{
+  color: transparent;
+  -webkit-text-stroke: 1px;
+  -webkit-text-stroke-color: #141E61;
+}

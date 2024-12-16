@@ -1,0 +1,40 @@
+const fuhadShibluEdu = [
+     {
+          "edu_id": 1,
+          "edu_institute_logo": '../../../../public/images/citlogo.png',
+          "edu_institute_logo_alt": 'Creative IT Institute',
+          "edu_institute_link": 'https://creativeitinstitute.com',
+          "edu_from_date": 'january 2024',
+          "edu_to_date": 'october 2024',
+          "edu_institution": "creative IT institute",
+          "edu_department": "front-end web development with reactjs",
+          "edu_cgpa": "N/A",
+          "edu_location": "uttara, dhaka, bangladesh",
+     },
+     {
+          "edu_id": 2,
+          "edu_institute_logo": '../../../../public/images/mistlogo.png',
+          "edu_institute_logo_alt": 'Mangrove Institute of Science and Technology',
+          "edu_institute_link": 'https://mangrove.edu.bd',
+          "edu_from_date": 'july 2017',
+          "edu_to_date": 'march 2022',
+          "edu_institution": "mangrove institute of science and technology",
+          "edu_department": "diploma in mechanical technology",
+          "edu_cgpa": "3.4 out of 4",
+          "edu_location": "khalishpur, khulna, bangladesh",
+     },
+     {
+          "edu_id": 3,
+          "edu_institute_logo": '../../../../public/images/bhslogo.png',
+          "edu_institute_logo_alt": 'Bangobashi Secondary School',
+          "edu_institute_link": 'https://facebook.com/Bongobashi.High.School',
+          "edu_from_date": 'january 2016',
+          "edu_to_date": 'march 2017',
+          "edu_institution": "bangobashi secondary school",
+          "edu_department": "s.s.c (secondary school certificate) in science",
+          "edu_cgpa": "4.09 out of 5",
+          "edu_location": "khalishpur, khulna, bangladesh",
+     },
+]
+
+export default fuhadShibluEdu

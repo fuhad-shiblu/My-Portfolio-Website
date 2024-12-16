@@ -1,0 +1,12 @@
+.fuhadShiblu_aboutHeader h1::after{
+     content: '';
+     @apply w-full h-1 bg-[#0E2954] absolute bottom-0 left-1/2 translate-x-[-50%];
+}
+.fuhadShiblu_aboutSkills h2::after{
+     content: '';
+     @apply w-full h-1 bg-[#A0153E] absolute bottom-0 left-1/2 translate-x-[-50%];
+}
+.fuhadShiblu_aboutEdu h3::after{
+     content: '';
+     @apply w-full h-1 bg-[#A0153E] absolute bottom-0 left-1/2 translate-x-[-50%];
+}
